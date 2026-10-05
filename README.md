@@ -1,5 +1,7 @@
 <div align="center">
 
+![프로필 로고](public/image/profile.png)
+
 <br>
 
 # good-bad-code
