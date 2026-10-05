@@ -201,7 +201,7 @@ Experiments
   <summary>
 <h2>05 / HOW I DEVELOP</h2>
   </summary>
-```text
+    
         IDEA
           │
           ▼
@@ -218,7 +218,6 @@ Experiments
           │
           ▼
        BETTER
-```
 
 **Build → Break → Learn → Fix → Repeat**
 
