@@ -1,10 +1,16 @@
 <div align="center">
 
-![프로필 로고](https://github.com/good-bad-code/good-bad-code/blob/main/public/image/profile.png)
+<p align="center">
+  <img src="https://github.com/good-bad-code/good-bad-code/blob/main/public/image/profile.png" width="150" height="150" style="border-radius: 50%;">
+</p>
 
 <br>
 
 # good-bad-code
+
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40+good-bad-code" alt="Typing SVG" /></a>
+</p>
 
 **Beginner Developer · Web Builder · AI-assisted Developer**
 
