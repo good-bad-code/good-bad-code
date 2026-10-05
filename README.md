@@ -1,9 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://github.com/good-bad-code/good-bad-code/blob/main/public/image/profile.png" width="150" height="150" style="border-radius: 50%;">
-</p>
-
 <br>
 
 # good-bad-code
@@ -21,6 +17,9 @@
 
 <br>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=good-bad-code&theme=dark&short_numbers=true&date_format=%5BY.%5Dn.j)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=good-bad-code&theme=dark)
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -36,9 +35,19 @@
 
 ---
 
-## 01 / ABOUT
-
+<details>
+  <summary>
+<h2>01 / ABOUT</h2>
+  </summary>
 I'm a **beginner developer** who enjoys building things for the web.
+
+<br>
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=good-bad-code&theme=dark)
+
+<br>
 
 Python을 공부하면서 개발을 시작했고,
 현재는 **Next.js, Django, HTML, CSS, JavaScript**를 이용해
@@ -51,11 +60,14 @@ AI 역시 개발 과정에서 하나의 도구로 활용합니다.
 
 > **AI can write code.
 > I want to understand it.**
+</details>
 
 ---
 
-## 02 / STACK
-
+<details>
+  <summary>
+<h2>02 / STACK</h2>
+  </summary>
 <div align="center">
 
 ### Frontend
@@ -88,10 +100,17 @@ AI 역시 개발 과정에서 하나의 도구로 활용합니다.
 
 </div>
 
+<br>
+
+</details>
+
+
 ---
 
-## 03 / WHAT I BUILD
-
+<details>
+  <summary>
+<h2>03 / WHAT I BUILD</h2>
+  </summary>
 <table>
 <tr>
 <td width="33%" align="center">
@@ -148,11 +167,17 @@ Experiments
 </tr>
 </table>
 
+<br>
+
+</details>
+
 ---
 
-## 04 / PROJECTS
-
-### Selected Projects
+<details>
+  <summary>
+<h2>04 / PROJECTS</h2>
+  </summary>
+<h3>Selected Projects</h3>
 
 현재는 작은 프로젝트들을 만들면서
 새로운 기술을 직접 경험하고 있습니다.
@@ -161,18 +186,21 @@ Experiments
 
 | Project       | Stack            |   Status   |
 | :------------ | :--------------- | :--------: |
-| **Project A** | Next.js          | `Building` |
-| **Project B** | Django           | `Learning` |
-| **Project C** | Chrome Extension | `Building` |
+| **Entry Hub** | Next.js          | `Building` |
+| **Entry Sync** | Chrome Extension | `Building` |
 
 <br>
 
 > 프로젝트가 완성될 때마다 하나씩 추가합니다.
 
+</details>
+
 ---
 
-## 05 / HOW I DEVELOP
-
+<details>
+  <summary>
+<h2>05 / HOW I DEVELOP</h2>
+  </summary>
 ```text
         IDEA
           │
@@ -199,10 +227,14 @@ Experiments
 그래서 지금은
 **나쁜 코드도 직접 경험하면서 좋은 코드를 배우는 중입니다.**
 
+</details>
+
 ---
 
-## 06 / NOW
-
+<details>
+<summary>
+<h2>06 / NOW</h2>
+</summary>
 <div align="center">
 
 <table>
@@ -238,6 +270,8 @@ Development
 </table>
 
 </div>
+
+</details>
 
 ---
 
