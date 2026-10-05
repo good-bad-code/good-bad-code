@@ -1,12 +1,18 @@
 <div align="center">
 
+<img src="public/image/profile.png" width="150" height="150" style="border-radius: 50%;">
+
 <br>
 
 # good-bad-code
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40+good-bad-code" alt="Typing SVG" /></a>
+    <a href="https://github.com/good-bad-code/good-bad-code/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40+good-bad-code" alt="Typing SVG" /></a>
 </p>
+
+<a href="https://github.com/good-bad-code/">go to main</a>
+ | 
+<a href="https://good-bad-code.github.io/">go to page</a>
 
 **Beginner Developer · Web Builder · AI-assisted Developer**
 
@@ -27,7 +33,7 @@
 
 <br><br>
 
-[ ABOUT ](#about)　[ STACK ](#stack)　[ PROJECTS ](#projects)　[ NOW ](#now)
+[ ABOUT ](#01--about)　[ STACK ](#02--stack)　[ PROJECTS ](#04--projects)　[ NOW ](#06--now)
 
 <br>
 
