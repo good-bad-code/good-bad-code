@@ -1,6 +1,6 @@
 <div align="center">
 
-![프로필 로고](public/image/profile.png)
+![프로필 로고](https://github.com/good-bad-code/good-bad-code/blob/main/public/image/profile.png)
 
 <br>
 
