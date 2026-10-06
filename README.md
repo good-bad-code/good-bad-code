@@ -6,11 +6,16 @@
 
 # good-bad-code
 
-<p align="center">
-	<a href="https://github.com/good-bad-code/good-bad-code/">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40+good-bad-code" alt="Typing SVG" />
-	</a>
-</p>
+<div align="center">
+
+<img
+	src="public/image/profile.png"
+	width="150"
+	height="150"
+	alt="good-bad-code profile"
+>
+
+<br>
 
 <a href="https://github.com/good-bad-code/">go to main</a>
 |
