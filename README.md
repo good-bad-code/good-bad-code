@@ -1,21 +1,24 @@
 <div align="center">
 
-<img src="public/image/profile.png" width="150" height="150" style="border-radius: 50%;">
+<svg width="150" height="150" viewBox="0 0 150 150">
+<defs>
+<clipPath id="profile-circle">
+<circle cx="75" cy="75" r="75"/>
+</clipPath>
+</defs>
+
+<image href="https://raw.githubusercontent.com/good-bad-code/good-bad-code/main/public/image/profile.png" width="150" height="150" preserveAspectRatio="xMidYMid slice" clip-path="url(#profile-circle)" />
+</svg>
 
 <br>
 
 # good-bad-code
 
-<div align="center">
-
-<img
-	src="public/image/profile.png"
-	width="150"
-	height="150"
-	alt="good-bad-code profile"
->
-
-<br>
+<p align="center">
+	<a href="https://github.com/good-bad-code/good-bad-code/">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40+good-bad-code" alt="Typing SVG" />
+	</a>
+</p>
 
 <a href="https://github.com/good-bad-code/">go to main</a>
 |
