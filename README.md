@@ -1,14 +1,6 @@
 <div align="center">
 
-<svg width="150" height="150" viewBox="0 0 150 150">
-<defs>
-<clipPath id="profile-circle">
-<circle cx="75" cy="75" r="75"/>
-</clipPath>
-</defs>
-
-<image href="https://raw.githubusercontent.com/good-bad-code/good-bad-code/main/public/image/profile.png" width="150" height="150" preserveAspectRatio="xMidYMid slice" clip-path="url(#profile-circle)" />
-</svg>
+<img src="public/image/profile-circle.png" width="150" height="150">
 
 <br>
 
