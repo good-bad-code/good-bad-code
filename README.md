@@ -7,11 +7,13 @@
 # good-bad-code
 
 <p align="center">
-    <a href="https://github.com/good-bad-code/good-bad-code/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40+good-bad-code" alt="Typing SVG" /></a>
+	<a href="https://github.com/good-bad-code/good-bad-code/">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40+good-bad-code" alt="Typing SVG" />
+	</a>
 </p>
 
 <a href="https://github.com/good-bad-code/">go to main</a>
- | 
+|
 <a href="https://good-bad-code.github.io/">go to page</a>
 
 **Beginner Developer · Web Builder · AI-assisted Developer**
@@ -42,9 +44,10 @@
 ---
 
 <details>
-  <summary>
-<h2>01 / ABOUT</h2>
-  </summary>
+	<summary>
+		<h2>01 / ABOUT</h2>
+	</summary>
+
 I'm a **beginner developer** who enjoys building things for the web.
 
 <br>
@@ -66,14 +69,16 @@ AI 역시 개발 과정에서 하나의 도구로 활용합니다.
 
 > **AI can write code.
 > I want to understand it.**
+
 </details>
 
 ---
 
 <details>
-  <summary>
-<h2>02 / STACK</h2>
-  </summary>
+	<summary>
+		<h2>02 / STACK</h2>
+	</summary>
+
 <div align="center">
 
 ### Frontend
@@ -110,16 +115,16 @@ AI 역시 개발 과정에서 하나의 도구로 활용합니다.
 
 </details>
 
-
 ---
 
 <details>
-  <summary>
-<h2>03 / WHAT I BUILD</h2>
-  </summary>
+	<summary>
+		<h2>03 / WHAT I BUILD</h2>
+	</summary>
+
 <table>
-<tr>
-<td width="33%" align="center">
+	<tr>
+		<td width="33%" align="center">
 
 ### WEB
 
@@ -135,9 +140,9 @@ Landing Pages
 `JavaScript`
 `HTML / CSS`
 
-</td>
+		</td>
 
-<td width="33%" align="center">
+		<td width="33%" align="center">
 
 ### EXTENSIONS
 
@@ -152,9 +157,9 @@ Small Utilities
 `JavaScript`
 `Chrome API`
 
-</td>
+		</td>
 
-<td width="33%" align="center">
+		<td width="33%" align="center">
 
 ### BACKEND
 
@@ -169,8 +174,8 @@ Experiments
 `Python`
 `Django`
 
-</td>
-</tr>
+		</td>
+	</tr>
 </table>
 
 <br>
@@ -180,9 +185,10 @@ Experiments
 ---
 
 <details>
-  <summary>
-<h2>04 / PROJECTS</h2>
-  </summary>
+	<summary>
+		<h2>04 / PROJECTS</h2>
+	</summary>
+
 <h3>Selected Projects</h3>
 
 현재는 작은 프로젝트들을 만들면서
@@ -204,26 +210,26 @@ Experiments
 ---
 
 <details>
-  <summary>
-<h2>05 / HOW I DEVELOP</h2>
-  </summary>
-    
-        IDEA
-          │
-          ▼
-       BUILD
-          │
-          ▼
-       DEBUG
-          │
-          ▼
-       LEARN
-          │
-          ▼
-      REFACTOR
-          │
-          ▼
-       BETTER
+	<summary>
+		<h2>05 / HOW I DEVELOP</h2>
+	</summary>
+
+	IDEA
+		│
+		▼
+	BUILD
+		│
+		▼
+	DEBUG
+		│
+		▼
+	LEARN
+		│
+		▼
+	REFACTOR
+		│
+		▼
+	BETTER
 
 **Build → Break → Learn → Fix → Repeat**
 
@@ -237,14 +243,15 @@ Experiments
 ---
 
 <details>
-<summary>
-<h2>06 / NOW</h2>
-</summary>
+	<summary>
+		<h2>06 / NOW</h2>
+	</summary>
+
 <div align="center">
 
 <table>
-<tr>
-<td align="center">
+	<tr>
+		<td align="center">
 
 ### LEARNING
 
@@ -252,26 +259,26 @@ Next.js
 Django
 JavaScript
 
-</td>
+		</td>
 
-<td align="center">
+		<td align="center">
 
 ### BUILDING
 
 Websites
 Chrome Extensions
 
-</td>
+		</td>
 
-<td align="center">
+		<td align="center">
 
 ### EXPLORING
 
 AI-assisted
 Development
 
-</td>
-</tr>
+		</td>
+	</tr>
 </table>
 
 </div>
@@ -298,7 +305,7 @@ Development
 <br>
 
 <a href="https://github.com/good-bad-code">
-<img src="https://img.shields.io/badge/GitHub-good--bad--code-181717?style=flat-square&logo=github">
+	<img src="https://img.shields.io/badge/GitHub-good--bad--code-181717?style=flat-square&logo=github">
 </a>
 
 <br><br>
