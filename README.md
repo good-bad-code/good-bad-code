@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="public/image/profile-circle.png" width="150" height="150">
-<img src="public/image/profile-now.png" width="15" height="15">
+<img src="public/image/profile-circle.png" width="150" height="150"/>
 
 <br>
 
@@ -291,6 +290,8 @@ Development
 <div align="center">
 
 <br><br>
+
+<img src="public/image/profile-now.png" width="100" height="100"/>
 
 # good code.
 
