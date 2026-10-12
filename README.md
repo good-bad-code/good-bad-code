@@ -4,7 +4,7 @@
 
 <br>
 
-# good-bad-code
+# NIX
 
 <p align="center">
 	<a href="https://github.com/good-bad-code/good-bad-code/">
