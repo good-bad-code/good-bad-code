@@ -140,9 +140,9 @@ Landing Pages
 `JavaScript`
 `HTML / CSS`
 
-		</td>
+</td>
 
-		<td width="33%" align="center">
+<td width="33%" align="center">
 
 ### EXTENSIONS
 
@@ -157,9 +157,9 @@ Small Utilities
 `JavaScript`
 `Chrome API`
 
-		</td>
+</td>
 
-		<td width="33%" align="center">
+<td width="33%" align="center">
 
 ### BACKEND
 
@@ -174,8 +174,8 @@ Experiments
 `Python`
 `Django`
 
-		</td>
-	</tr>
+</td>
+</tr>
 </table>
 
 <br>
@@ -214,22 +214,22 @@ Experiments
 		<h2>05 / HOW I DEVELOP</h2>
 	</summary>
 
-	IDEA
+	   IDEA
 		│
 		▼
-	BUILD
+      BUILD
 		│
 		▼
-	DEBUG
+      DEBUG
 		│
 		▼
-	LEARN
+	  LEARN
 		│
 		▼
-	REFACTOR
+     REFACTOR
 		│
 		▼
-	BETTER
+	  BETTER
 
 **Build → Break → Learn → Fix → Repeat**
 
@@ -255,30 +255,30 @@ Experiments
 
 ### LEARNING
 
-Next.js
-Django
-JavaScript
+	      Next.js      
+	      Django      
+	      JavaScript      
 
-		</td>
+</td>
 
-		<td align="center">
+<td align="center">
 
 ### BUILDING
 
-Websites
-Chrome Extensions
+	    Websites    
+	    Chrome Extensions    
 
-		</td>
+</td>
 
-		<td align="center">
+<td align="center">
 
 ### EXPLORING
 
-AI-assisted
-Development
+         AI-assisted     
+         Development     
 
-		</td>
-	</tr>
+</td>
+</tr>
 </table>
 
 </div>
